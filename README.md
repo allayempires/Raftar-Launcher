@@ -1,21 +1,4 @@
 # ⚡ Raftar Launcher
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Raftar Launcher" width="800">
-</p>
-
-<p align="center">
-  <b>A fast, modern and customizable Minecraft: Java Edition launcher for Android.</b>
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#downloads">Downloads</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#building">Building</a> •
-  <a href="#contributing">Contributing</a>
-</p>
-
 ---
 
 ## 🎮 About
@@ -102,11 +85,3 @@ Download the latest APK from the project's **Releases** section.
 > builds from trusted sources.
 
 ---
-
-## 🔨 Building
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
